@@ -15,3 +15,5 @@
 ## 🔖 What I hope to do next
 - I want to use [pywsd](https://github.com/alvations/pywsd) instead of NLTK for lemmatization and compare the results.
 - I want to try other topic modelling techniques like LSA, NMF and the like. See [here](https://iq.opengenus.org/topic-modelling-techniques/).
+***
+S.D.G.
